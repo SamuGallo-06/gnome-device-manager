@@ -1,5 +1,10 @@
 # Gnome Device Manager
 
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![GTK](https://img.shields.io/badge/GTK-4.0-7FE719?logo=gtk&logoColor=white)](https://www.gtk.org/)
+[![GNOME App](https://img.shields.io/badge/GNOME%20App-Ready-2EA2FF?logo=gnome&logoColor=white)](https://www.gnome.org/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 **Gnome Device Manager** è un'applicazione per Linux ispirata al *Device Manager* di Windows, sviluppata in **Python** con **GTK**.  
 Permette di visualizzare e gestire in modo grafico tutti i dispositivi collegati al sistema, come schede di rete, monitor, dispositivi di input e periferiche USB.
 
@@ -66,6 +71,7 @@ Contributi, segnalazioni di bug e nuove idee sono sempre benvenuti!
  - Fai un fork del progetto
  - Crea un branch per la tua feature (git checkout -b feature/nuova-funzione)
  - Invia una Pull Request
+
 
 
 
